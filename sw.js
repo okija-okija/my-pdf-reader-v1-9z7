@@ -1,6 +1,6 @@
 const CACHE_NAME = 'pdf-reader-v16';
 const ASSETS = [
-  './B35_PWA1Gem.html',
+  './index.html',
   './manifest.json',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.mjs',
