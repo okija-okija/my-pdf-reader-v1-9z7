@@ -1,7 +1,8 @@
 {
   "name": "My PDF Reader",
   "short_name": "PDFReader",
-  "start_url": "./index.html",
+  "start_url": "/my-pdf-reader-v1-9z7/",
+  "scope": "/my-pdf-reader-v1-9z7/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007AFF",
@@ -18,3 +19,4 @@
     }
   ]
 }
+
