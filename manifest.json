@@ -2,7 +2,7 @@
   "name": "Smart PDF TTS Reader",
   "short_name": "SmartPDF",
   "description": "高度な読み上げ機能を備えたPDFリーダー",
-  "start_url": "B35_PWA1Gem.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007AFF",
